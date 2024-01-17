@@ -1,0 +1,17 @@
+td{
+    outline: 3px;
+    outline-color: black;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.t{
+    background-color: rgba(92, 155, 92, 0.745);
+}
+.b{
+    background-color: rgb(76, 176, 207);
+}
+.nec:hover{
+    background-color: blueviolet;
+}
